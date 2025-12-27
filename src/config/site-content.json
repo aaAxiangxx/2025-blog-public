@@ -37,9 +37,13 @@
 		{
 			"id": "",
 			"url": ""
+		},
+		{
+			"id": "url-1766832980374",
+			"url": "https://free.picui.cn/free/2025/12/14/693eb400c2a3c.png"
 		}
 	],
-	"currentBackgroundImageId": "",
+	"currentBackgroundImageId": "url-1766832980374",
 	"socialButtons": [
 		{
 			"id": "github",
@@ -49,25 +53,11 @@
 			"order": 2
 		},
 		{
-			"id": "email",
-			"type": "email",
-			"value": "3071055261@qq.com",
-			"label": "",
-			"order": 1
-		},
-		{
 			"id": "button-1766832262809",
 			"type": "bilibili",
 			"value": "https://space.bilibili.com/1150735539",
 			"label": "(゜-゜)つロ 干杯 ~",
 			"order": 3
-		},
-		{
-			"id": "button-1766832282365",
-			"type": "qq",
-			"value": "https://res.abeim.cn/api/qq/?qq=3071055261",
-			"label": "",
-			"order": 4
 		}
 	],
 	"clockShowSeconds": true,
